@@ -1,4 +1,4 @@
-git init-->for initializing git repository
-git add -A-->
-git commit -m "message"
-git status
+git init			-->for initializing git repository
+git add -A			-->
+git commit -m "message" -->
+git status			-->untracked file list cheyyan
