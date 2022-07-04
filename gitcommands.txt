@@ -1,4 +1,6 @@
 git init			-->for initializing git repository
-git add -A			-->
-git commit -m "message" -->
+git add -A			-->from local repo to staging area
+git commit -m "message" -->from staging area to local repo
 git status			-->untracked file list cheyyan
+git remote -v		-->to check the existing path
+git remote add name 	-->to add a remote 
